@@ -9,7 +9,7 @@ school = "Fairfield Prep"
 first_half = school[0:9]
 second_half = school[10:14]
 #Print each half on its own line, then print the two halves joined together using concatenation.
-print(first_half)
+print(first_half) 
 print(second_half)
 print(first_half + second_half)
 #____________________________________
